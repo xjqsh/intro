@@ -1,0 +1,8 @@
+name: SelfIntroduce
+version: '${project.version}'
+main: me.xjqsh.selfintroduce.SelfIntroduce
+api-version: 1.19
+depend: [PlaceholderAPI]
+commands:
+  intro:
+    description: RUA!RUA!RUA!

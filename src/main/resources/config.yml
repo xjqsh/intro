@@ -1,0 +1,21 @@
+config:
+#最大字符数量
+  maxChar: 24
+#最多几行
+  maxLine: 3
+#正则表达式
+  regex: "[^\\u4E00-\\u9FA5a-zA-Z0-9\\u3002\\uff1f\\uff01\\uff0c!,.~\\\\]"
+  default: '这个家伙很懒，什么都没有留下~'
+message:
+  startediting:
+  - '&6'
+  - '&6你正在编辑自我介绍，在聊天框输入你的自我介绍，用“\”进行分行。'
+  - '&6输入 &fcancel &6退出编辑模式。'
+  needplayer: "&6该命令只能由玩家执行"
+  playernotexist: "&6该玩家不存在"
+  inediting: "&6你已经在编辑模式下了！输入cancel退出"
+  illegalinput: "&6你的输入过长、行数过多或包含非法字符！请重新输入"
+  success: "&6修改成功！你当前的个人介绍是："
+  help: "&6这应该是个帮助文本，但是我懒得写了"
+  nopermission: "&6你没有使用该命令的权限！"
+  reload: "&6重载完成"
