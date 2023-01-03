@@ -1,4 +1,4 @@
-# format-intro
+# intro
 rua！  
 一个贼简单的spigot插件，受某人之托简单写的  
 提供两个papi变量，用作于配合cmi和chat hover实现个人介绍的设置  
