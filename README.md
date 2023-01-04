@@ -9,4 +9,8 @@ rua！
 
 ## command
 /intro 触发自己的个人介绍设置  
-/intro <player> 强制触发某人的个人介绍设置  
+/intro \<player\> 强制触发某人的个人介绍设置  
+
+## permission
+intro.change 激活个人介绍设置
+intro.change.other 激活指定玩家的个人介绍设置
