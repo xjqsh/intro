@@ -5,7 +5,7 @@ rua！
 
 ## papi  
 %intro_self% 自己的intro  
-%intro_other_<playerName>% 别人的intro  
+%intro_other_\<playerName\>% 别人的intro  
 
 ## command
 /intro 触发自己的个人介绍设置  
